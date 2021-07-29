@@ -1,0 +1,10 @@
+[{"id":1,"carMake":"Pontiac","carModel":"Firebird","year":1969},
+{"id":2,"carMake":"GMC","carModel":"3500 Club Coupe","year":1998},
+{"id":3,"carMake":"Volkswagen","carModel":"Tiguan","year":2010},
+{"id":4,"carMake":"Saturn","carModel":"VUE","year":2007},
+{"id":5,"carMake":"Buick","carModel":"Regal","year":1985},
+{"id":6,"carMake":"Audi","carModel":"80","year":1989},
+{"id":7,"carMake":"Subaru","carModel":"Tribeca","year":2008},
+{"id":8,"carMake":"Mitsubishi","carModel":"Eclipse","year":2012},
+{"id":9,"carMake":"Volkswagen","carModel":"Corrado","year":1994},
+{"id":10,"carMake":"Dodge","carModel":"D150","year":1992}]
